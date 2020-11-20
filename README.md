@@ -51,4 +51,4 @@ train：					训练文件
 模型效果：
 
 
-https://github.com/RCsai/CSRnet-Pytorch/tree/main/result/show.jpg
+![Alt text](https://github.com/RCsai/CSRnet-Pytorch/tree/main/result/show.jpg)
