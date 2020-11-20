@@ -8,5 +8,6 @@
 
 
 文件说明：
-
-checkpoint: 用于保存权重文件
+checkpoint:   用于保存权重文件
+data_test:    测试图片数据
+data_train:   训练数据
