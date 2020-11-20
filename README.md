@@ -15,4 +15,8 @@ data_test:    测试图片数据
 
 data_train:   训练数据
 
+result:       储存结果文件
+
+run:          保存训练结果，用于可视化
+
 
