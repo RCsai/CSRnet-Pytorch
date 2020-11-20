@@ -50,5 +50,5 @@ train：					训练文件
 
 模型效果：
 
-![image-20201121000459857](C:\Users\48586\AppData\Roaming\Typora\typora-user-images\image-20201121000459857.png)
 
+https://github.com/RCsai/CSRnet-Pytorch/tree/main/result/show.jpg
