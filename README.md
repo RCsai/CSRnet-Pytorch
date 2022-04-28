@@ -34,9 +34,9 @@ pltGtEt：				根据真实值txt文件以及预测txt文件将两者在同一个
 
 train：					训练文件
 
-data_train/mall_dataset_A/dmap_for_SHHA.py  对图片进行预处理，生成densitymaps文件夹中文件
+data_train/mall_dataset_A/dmap_for_SHHA.py:  对图片进行预处理，生成densitymaps文件夹中文件
 
-data_train/mall_dataset_B/dmap_for_SHHB.py  对图片进行预处理，生成densitymaps文件夹中文件
+data_train/mall_dataset_B/dmap_for_SHHB.py:  对图片进行预处理，生成densitymaps文件夹中文件
 
 
 
